@@ -4,6 +4,12 @@ Statamic meets Vite
 
 This starter kit will replace the default Laravel Mix with [Vite](https://vitejs.dev/)
 
+## Install the Starter Kit
+
+```bash
+php please starter-kit:install my-site lucky-media/statavite
+```
+
 This is still in development and its not recommended yet for production.
 
 Some manual steps have to be done for now:
@@ -12,7 +18,7 @@ Some manual steps have to be done for now:
 - Remove everything on `resources/css` except `site.css`
 
 
-### Installation commands
+### Installating Assets
 
 ```bash
 npm install
