@@ -1,0 +1,9 @@
+{
+    "name": "lucky-media/statavite",
+    "extra": {
+        "statamic": {
+            "name": "Statavite",
+            "description": "Statamic meets Vite Starter Kit"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+export_paths:
+  - app/Tags
+  - content
+  - package.json
+  - vite.config.ts
+  - resources/js
+  - resources/css
+  - resources/views
+  - public/build
+  - tailwind.config.js
+  - .env.example
+  - README.md
+dependencies:
+  innocenzi/laravel-vite: ^0.1.23
